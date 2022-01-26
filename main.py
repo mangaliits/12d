@@ -24,4 +24,4 @@ h= hip/2
 trlauk= h*hip/2
 print("trijstura laukums ir: ", trlauk)
 
-print("riņķa laukums ir lielāks par: ", round(rlauk-trlauk,1), "cm")
+print("riņķa laukums ir lielāks par: ", round(rlauk-trlauk,1), "cm^2")
