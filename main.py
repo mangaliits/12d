@@ -9,4 +9,4 @@ else:
   newkv=kmg+5
   newkvl= math.pow(newkv,2)
   print("jaunā kv lauk.: ", newkvl)
-print("jaunais kv palielinajās par:", newkvl*100/kvl, "%")
+print("jaunais kv palielinajās par:", round((newkvl*100/kvl) -100), "%")
